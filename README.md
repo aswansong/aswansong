@@ -22,22 +22,22 @@ Welcome to my GitHub. I am a developer focused on turning cutting-edge AI ideas 
 - [x] Rebuilt my local development environment with Miniconda and dependency isolation.
 - [x] Learned `.gitignore` best practices and secure environment variable management with `python-dotenv`.
 - [x] Built clean RESTful API routes and Pydantic-based validation with FastAPI.
-- [ ] Integrate and debug mainstream LLM APIs such as OpenAI and DeepSeek, including streaming response handling.
+- [x] Integrate and debug mainstream LLM APIs such as OpenAI and DeepSeek, including streaming response handling.
 
 **Week 2: RAG Pipeline Deep Dive**
-- [ ] Deeply understand and implement chunking strategies, including recursive and semantic chunking.
-- [ ] Connect a vector database such as Chroma or Pinecone to build a local knowledge base.
-- [ ] Implement retrieval logic and add reranking to improve search accuracy.
+- [x] Deeply understand and implement chunking strategies, including recursive and semantic chunking.
+- [x] Connect a vector database such as Chroma or Pinecone to build a local knowledge base.
+- [x] Implement retrieval logic and add reranking to improve search accuracy.
 
 **Week 3: Agent Architecture and Tool Use**
-- [ ] Study and reproduce the core logic of the ReAct pattern.
-- [ ] Build custom tools for agents, such as a weather API or web search tool.
-- [ ] Combine LLMs with tools using LangChain or LlamaIndex to implement function calling workflows.
+- [x] Study and reproduce the core logic of the ReAct pattern.
+- [x] Build custom tools for agents, such as a weather API or web search tool.
+- [x] Combine LLMs with tools using LangChain or LlamaIndex to implement function calling workflows.
 
 **Week 4: Deployment and Portfolio Polish**
-- [ ] Containerize the current FastAPI agent service with Docker.
-- [ ] Deploy it to a cloud server or a serverless platform.
-- [ ] Improve project documentation, record a demo video, and prepare interview reflections.
+- [x] Containerize the current FastAPI agent service with Docker.
+- [x] Deploy it to a cloud server or a serverless platform.
+- [x] Improve project documentation, record a demo video, and prepare interview reflections.
 
 ---
 
